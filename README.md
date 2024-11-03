@@ -37,8 +37,8 @@
 （或者直接下载文件 `find_duplicates.py` 并拖动到你想检查的目录中，双击开始）
 
 ```bash
-   git clone https://github.com/molikai-work/FileDuplicateChecker.git
-   cd FileDuplicateChecker
+git clone https://github.com/molikai-work/FileDuplicateChecker.git
+cd FileDuplicateChecker
 ```
 
 2. **运行脚本**：
@@ -46,7 +46,7 @@
 确保你已经安装了 Python，并且在 PATH 中可用。打开命令提示符或终端，导航到脚本所在目录，运行：
 
 ```bash
-   python find_duplicates.py
+python find_duplicates.py
 ```
 
 3. **按照终端中的提示**配置扫描选项。
